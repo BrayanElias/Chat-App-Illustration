@@ -39,6 +39,9 @@ main{
     min-width: 350px;
     margin: 60px auto; 
     background-color: var(--White);
+    box-shadow: 3px 17px 17px -4px rgba(0,0,0,0.63);
+    -webkit-box-shadow: 3px 17px 17px -4px rgba(0,0,0,0.63);
+    -moz-box-shadow: 3px 17px 17px -4px rgba(0,0,0,0.63);
 }
 .card-phone{
     width: 100%;
